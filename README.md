@@ -2,6 +2,8 @@
 
 ### 별들을 더 가까이, 별들을 소장하고 싶은 사람들을 위하여
 
+<img src="./exec/image/StellargramMockUp.png"/>
+<br>
 
 ## 팀원 소개
 
